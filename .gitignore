@@ -1,5 +1,8 @@
 SuperSlicerProfiles/cache/
 SuperSlicerProfiles/vendor/
 SuperSlicerProfiles/physical_printer/
+PrusaSlicerProfiles/cache/
+PrusaSlicerProfiles/vendor/
+PrusaSlicerProfiles/physical_printer/
 *.FCStd1
 *~

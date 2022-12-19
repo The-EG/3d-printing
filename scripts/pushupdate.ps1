@@ -1,5 +1,6 @@
 Write-Output "Staging profile changes"
 git add 'SuperSlicerProfiles'
+git add 'PrusaSlicerProfiles'
 
 if ( !$? ) {
     Write-Error "Couldn't stage profile files"
